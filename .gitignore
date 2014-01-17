@@ -1,0 +1,9 @@
+*.pyc
+build/*
+*.py[cod]
+*~
+*.swp
+venv
+.ropeproject
+*.egg
+*.egg-info
