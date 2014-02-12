@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 
 # package meta info
 NAME = "DoubanUtils"
-VERSION = "0.1"
+VERSION = "0.0.1"
 DESCRIPTION = "Douban Utils"
 AUTHOR = "Qiangning Hong"
 AUTHOR_EMAIL = "hongqn@gmail.com"
-LICENSE = "BSD"
-URL = ""
+LICENSE = "revised BSD"
+URL = "https://github.com/douban/douban-utils"
 KEYWORDS = ""
 CLASSIFIERS = []
 
