@@ -39,7 +39,7 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read_long_description('README.rst'),
+    long_description=read_long_description('README.md'),
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=LICENSE,
